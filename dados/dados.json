@@ -1,0 +1,140 @@
+{
+  "lanches": [
+    {
+      "id": 1,
+      "nome": "Batata Suprema",
+      "preco": 15.90,
+      "descricao": "Batata com bacon e queijo",
+      "imagem": "../img/logo.jpg",
+      "categoria": "promocoes"
+    },
+    {
+      "id": 2,
+      "nome": "Promo Especial",
+      "preco": 25.00,
+      "descricao": "Combo batata + prensado",
+      "imagem": "../img/logo.jpg",
+      "categoria": "promocoes"
+    },
+    {
+      "id": 3,
+      "nome": "Pastel de Carne",
+      "preco": 8.50,
+      "descricao": "Pastel tradicional recheado",
+      "imagem": "../img/logo.jpg",
+      "categoria": "prensados"
+    },
+    {
+      "id": 4,
+      "nome": "Pastel de Queijo",
+      "preco": 7.50,
+      "descricao": "Pastel com queijo derretido",
+      "imagem": "../img/logo.jpg",
+      "categoria": "prensados"
+    },
+    {
+      "id": 5,
+      "nome": "Pastel de Palmito",
+      "preco": 8.00,
+      "descricao": "Pastel verde saudável",
+      "imagem": "../img/logo.jpg",
+      "categoria": "prensados"
+    },
+    {
+      "id": 6,
+      "nome": "Pastel de Frango",
+      "preco": 9.00,
+      "descricao": "Pastel com frango desfiado",
+      "imagem": "../img/logo.jpg",
+      "categoria": "prensados"
+    },
+    {
+      "id": 7,
+      "nome": "Pastel de Calabresa",
+      "preco": 9.50,
+      "descricao": "Pastel picante e saboroso",
+      "imagem": "../img/logo.jpg",
+      "categoria": "prensados"
+    },
+    {
+      "id": 8,
+      "nome": "Batata Simples",
+      "preco": 10.00,
+      "descricao": "Batata crocante clássica",
+      "imagem": "../img/logo.jpg",
+      "categoria": "batatas"
+    },
+    {
+      "id": 9,
+      "nome": "Batata com Cheddar",
+      "preco": 14.00,
+      "descricao": "Batata com molho de cheddar",
+      "imagem": "../img/logo.jpg",
+      "categoria": "batatas"
+    },
+    {
+      "id": 10,
+      "nome": "Batata com Alho",
+      "preco": 12.50,
+      "descricao": "Batata temperada com alho",
+      "imagem": "../img/logo.jpg",
+      "categoria": "batatas"
+    },
+    {
+      "id": 11,
+      "nome": "Batata Temperada",
+      "preco": 13.00,
+      "descricao": "Batata com temperos especiais",
+      "imagem": "../img/logo.jpg",
+      "categoria": "batatas"
+    },
+    {
+      "id": 12,
+      "nome": "Batata Burguer",
+      "preco": 16.50,
+      "descricao": "Batata com hambúrguer em cima",
+      "imagem": "../img/logo.jpg",
+      "categoria": "batatas"
+    },
+    {
+      "id": 13,
+      "nome": "Coca Cola 1L",
+      "preco": 7.00,
+      "descricao": "Refrigerante tradicional",
+      "imagem": "../img/logo.jpg",
+      "categoria": "bebidas"
+    },
+    {
+      "id": 14,
+      "nome": "Guaraná 1L",
+      "preco": 6.50,
+      "descricao": "Refrigerante de guaraná",
+      "imagem": "../img/logo.jpg",
+      "categoria": "bebidas"
+    },
+    {
+      "id": 15,
+      "nome": "Suco Natural",
+      "preco": 5.00,
+      "descricao": "Suco natural da fruta do dia",
+      "imagem": "../img/logo.jpg",
+      "categoria": "bebidas"
+    },
+    {
+      "id": 16,
+      "nome": "Água Mineral",
+      "preco": 2.00,
+      "descricao": "Água mineral gelada",
+      "imagem": "../img/logo.jpg",
+      "categoria": "bebidas"
+    },
+    {
+      "id": 17,
+      "nome": "Cerveja Artesanal",
+      "preco": 12.00,
+      "descricao": "Cerveja gelada premium",
+      "imagem": "../img/logo.jpg",
+      "categoria": "bebidas"
+    }
+  ]
+}
